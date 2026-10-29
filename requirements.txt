@@ -1,0 +1,10 @@
+streamlit>=1.39
+groq
+gTTS
+pillow
+torch
+torchvision
+scikit-learn
+matplotlib
+numpy
+requests
